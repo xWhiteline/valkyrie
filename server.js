@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const srv = require('http').Server(app);
+const srv = require('https').Server(app);
 const io = require('socket.io')(srv, {cors:{origin: '*'}});
 
 app.use(express.static('scripts'));
