@@ -1,0 +1,24 @@
+{
+    "meme": "meme",
+    "pool": "pool",
+    "ping": "ping",
+    "patch": "patch",
+    "status": "status",
+
+    "play": "play",
+    "stop": "stop",
+    "pause": "pause",
+    "resume": "resume",
+    "skip": "skip",
+    "queue": "queue",
+    "remove": "remove",
+    "now": "now",
+    "lyrics": "lyrics",
+
+    "clear": "clear",
+    "mute": "mute",
+    "unmute": "unmute",
+    "kick": "kick",
+    "ban": "ban",
+    "unban": "unban"
+}
